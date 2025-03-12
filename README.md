@@ -30,7 +30,7 @@ I'm a passionate developer crafting secure, user-friendly tools with **Python**,
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hammadurrehman2006&show_icons=true&bg_color=0D1117&title_color=004080&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/></a>
   <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehman2006&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
- <a href="#"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadurrehman2006&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" height="180px"/></a>
+<a href="https://git.io/streak-stats"><img src="[http://github-readme-streak-stats.herokuapp.com?user=hammadurrehman2006&theme=algolia](https://github-readme-streak-stats.herokuapp.com/?user=hammadurrehman2006&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&card_height=207)" alt="GitHub Streak" /></a>
 </div>
 
 ---
