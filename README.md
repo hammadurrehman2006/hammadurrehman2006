@@ -1,7 +1,8 @@
 
 # Muhammad Hammad ur Rehman 👋  
-
-<a href="https://folio-2006.vercel.app"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Website"></a><a href="https://github.com/hammadurrehman2006"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a><a href="mailto:hammadurrehman7707@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>  
+<a href="https://folio-2006.vercel.app"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Website"></a>
+<a href="https://linkedin.com/in/mhammadurrehman"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
+<a href="mailto:hammadurrehman7707@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=435&lines=Python+%7C+TypeScript+%7C+Web+Dev+Wizard)  
 
