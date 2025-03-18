@@ -39,7 +39,8 @@ Currently expanding my skill set with **React**, **APIs**, and **cloud deploymen
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehman2006&show_icons=true&bg_color=0D1117&title_color=3374f5&text_color=3374f5&icon_color=FFFFFF&hide_border=false)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammadurrehman2006&theme=algolia)](https://git.io/streak-stats)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehman2006&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammadurrehman2006&theme=algolia)](https://git.io/streak-stats)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehman2006&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=false)
 </div>
 
 
